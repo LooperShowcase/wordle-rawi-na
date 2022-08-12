@@ -1,0 +1,30 @@
+/** @format */
+
+body {
+  background-color: white (33, 33, 33);
+}
+
+.word {
+  display: flex;
+  justify-content: center;
+}
+.letter {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(10, 157, 5);
+  border: 3px double;
+  background-color: white;
+  margin: 5px;
+  font-size: 50px;
+  display: flex;
+  padding: 65px;
+  text-align: center;
+}
+
+.h1 {
+  background-color: blue;
+}
+.letter:hover {
+  background-color: grey;
+  width: 105px;
+}
